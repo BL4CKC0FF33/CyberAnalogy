@@ -18,4 +18,5 @@ And finally the **firewall** is the lock on the doors.
 Every network tapology differs based on the customer's needs but this is the basics.
 the **firewall** sits behinds the router and then the **IDS** and/or **IPS**.
 
-![VS-part2](https://user-images.githubusercontent.com/69141453/116952787-60fcd980-ac40-11eb-8503-1fc81040c0f4.png)
+![VS-part2(1)](https://user-images.githubusercontent.com/69141453/116953123-4f680180-ac41-11eb-8687-b94bcbfd2ef0.png)
+
